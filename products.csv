@@ -1,0 +1,11 @@
+product_id,name,category,brand,cost,supplier
+1,Fall,Audio,Samsung,345,"Davila, James and Armstrong"
+2,Night,Mobile,LG,337,"Alvarez, Bradshaw and Clark"
+3,Answer,Audio,Samsung,704,Mccullough LLC
+4,Gun,Laptop,Sony,78,Valencia PLC
+5,Painting,Laptop,Sony,767,"Lambert, Williams and Donaldson"
+6,Owner,Appliances,LG,936,Harper-Rose
+7,Tax,Laptop,Dell,944,Bean-Scott
+8,Gas,Appliances,LG,611,Jordan-Guzman
+9,Relate,Audio,Apple,825,Miller Inc
+10,Billion,Mobile,Dell,798,Stewart-Newman
