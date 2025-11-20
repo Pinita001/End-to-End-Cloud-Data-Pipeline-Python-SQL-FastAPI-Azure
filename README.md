@@ -37,20 +37,6 @@ Data Source → ETL Pipeline → FastAPI → Streamlit Dashboard → Users
 /dashboard
    └── app.py
 ```
-
-### ▶️ Running Locally
-
-```bash
-# Install dependencies
-pip install -r requirements.txt
-
-# Run API
-uvicorn api.main:app --reload
-
-# Run dashboard
-streamlit run dashboard/app.py
-```
-
 ### ☁️ Deployment (Azure)
 
 * Azure App Service (API hosting)
